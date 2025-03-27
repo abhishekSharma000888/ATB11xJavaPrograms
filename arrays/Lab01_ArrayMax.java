@@ -14,7 +14,7 @@ public class Lab01_ArrayMax {
             if(max < arr[i]){
 
                 max = arr[i];
-            } 
+            }
 
         }
 

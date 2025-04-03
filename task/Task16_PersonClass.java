@@ -45,6 +45,6 @@ class Person {
 
     // With parameters and with return type
     String eyesColor(String eyeColor) {
-        return eyeColor; 
+        return eyeColor;
     }
 }

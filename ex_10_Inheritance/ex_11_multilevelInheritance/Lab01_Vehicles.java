@@ -1,4 +1,4 @@
-package ex_11_multilevelInheritance;
+package ex_10_Inheritance.ex_11_multilevelInheritance;
 
 public class Lab01_Vehicles {
 

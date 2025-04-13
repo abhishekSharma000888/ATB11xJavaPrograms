@@ -6,6 +6,6 @@ public class Lab02_StringNullPointerExceptionExample {
 
         String a = null;
 
-        System.out.println(a.trim()); // unchecked string 
+        System.out.println(a.trim()); // unchecked string
     }
 }
